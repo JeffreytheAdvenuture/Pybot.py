@@ -1,0 +1,1 @@
+the QR code file, if scanned, will give you files related to those of Pybot. How to do? well, it's simple! GitHub files will be sent to your PC or smartphone, and you must open them in a QR code folder, and another file will be sent with instructions, enjoy!
